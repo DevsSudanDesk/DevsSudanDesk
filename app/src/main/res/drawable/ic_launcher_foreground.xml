@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Dark Charcoal Top Chevron -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 45.5,23.5 L 30.5,38.5 L 43.0,51.0 L 37.0,57.0 L 22.0,42.0 L 45.5,18.5 L 50.0,23.0 Z" />
+
+    <!-- Orange Circuit Pin Dot & Stem -->
+    <!-- Pin Circle -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 64.0,22.0 A 4.5,4.5 0 1,0 64.0,31.0 A 4.5,4.5 0 1,0 64.0,22.0 Z" />
+    <path
+        android:fillColor="#F4F5F7"
+        android:pathData="M 64.0,24.5 A 2.0,2.0 0 1,0 64.0,28.5 A 2.0,2.0 0 1,0 64.0,24.5 Z" />
+    
+    <!-- Orange Circuit Stem & Inner Orange Chevron -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 62.0,30.0 L 51.5,40.5 L 61.5,50.5 L 53.0,59.0 L 42.0,48.0 L 49.0,41.0 L 59.5,30.5 Z" />
+
+    <!-- Orange Middle Accent Diagonal Stroke -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 18.0,88.0 L 44.0,62.0 L 50.0,68.0 L 24.0,94.0 Z" />
+
+    <!-- Dark Charcoal Lower Diagonal Chevron -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 26.0,91.0 L 52.0,65.0 L 58.0,71.0 L 32.0,97.0 Z" />
+
+    <!-- Dark Charcoal Middle Lower Step -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 22.0,65.0 L 37.0,50.0 L 43.0,56.0 L 28.0,71.0 Z" />
+
+    <!-- Connected Orange Lower Branch -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 53.0,59.0 L 61.5,50.5 L 67.5,56.5 L 59.0,65.0 Z" />
+</vector>
